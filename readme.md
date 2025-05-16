@@ -8,3 +8,5 @@ program, what does it mean?
     this url is the connection string to connect to the RabbitMQ server, it contains the protocol (amqp), the username (guest), the password (guest), the host (localhost), and the port (5672). This url is used by both publisher and subscriber programs to connect to the same RabbitMQ server.
 
 ![alt text](image.png)
+![alt text](image-2.png)
+![alt text](image-1.png)
